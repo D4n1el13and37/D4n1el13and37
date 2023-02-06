@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Daniel
+- 👋 Hi, I’m Daniel 
 - 👀 I’m interested in a little bit in everythink ^_^, but now i rlly interested in web-dev
 - 🌱 I’m done the University at 2021 Dec. but not at IT spec. Now i study at freeCodeCamp(need to complete a couple of projects to achive sertificate) and at the same time at Sololearn(had sertivicate at HTML, JS, fundamentals WebDev). I want to be a good specialist at Web-development.
 - 💞️ I’m looking for collaborate with some interesting ppl.
-- 📫 How to reach me: d4n1el837@gmail.com .
-
+- 📫 How to reach me: daniilgorokhov1@gmail.com .
+- my SV https://debonair-grade-b32.notion.site/Daniel-s-CV-ru-c8238fad66134dd89d72108b6a225235
