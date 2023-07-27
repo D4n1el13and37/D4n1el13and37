@@ -10,5 +10,3 @@ I'm currrently working on my own project and i help my friend with one.<br>I'm l
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=D4n1el13and37&theme=react&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
