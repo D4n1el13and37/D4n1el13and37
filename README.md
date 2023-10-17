@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currrently working on my own project and i help my friend with one.<br>I'm looking for a some job to become a junior frontend developer.<br>I am looking for cooperation with someone to create a team project.<br>i'm currently learning event loops, and React.<br>i like play basketball<br>My CV ([ https://www.notion.so/Daniel-s-CV-ru-c8238fad66134dd89d72108b6a225235](https://d4n1el13and37.github.io/rsschool-cv/) )
+I'm currrently working on my own project and i help my friend with one.<br>I'm looking for a some job to become a junior frontend developer.<br>I am looking for cooperation with someone to create a team project.<br>i'm currently learning event loops, and React.<br>i like play basketball<br>My CV ([ CV ](https://d4n1el13and37.github.io/rsschool-cv/) )
 
 
 ## 🌐 Socials:
